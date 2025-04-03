@@ -86,7 +86,9 @@
 					</excludes>
 				</configuration>
 			</plugin>
+
 		</plugins>
+		<finalName>To-To-Application-exe</finalName>
 	</build>
 
 </project>

@@ -66,6 +66,11 @@ public class TaskController {
     public String toggle() {
         return "toggle";
     }
+
+    @GetMapping("/test")
+    public String test(){
+        return "test";
+    }
 }
 
 
